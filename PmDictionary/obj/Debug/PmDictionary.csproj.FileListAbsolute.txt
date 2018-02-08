@@ -1,0 +1,7 @@
+c:\users\shruti\source\repos\PmDictionary\PmDictionary\bin\Debug\PmDictionary.exe.config
+c:\users\shruti\source\repos\PmDictionary\PmDictionary\bin\Debug\PmDictionary.exe
+c:\users\shruti\source\repos\PmDictionary\PmDictionary\bin\Debug\PmDictionary.pdb
+c:\users\shruti\source\repos\PmDictionary\PmDictionary\obj\Debug\PmDictionary.csprojResolveAssemblyReference.cache
+c:\users\shruti\source\repos\PmDictionary\PmDictionary\obj\Debug\PmDictionary.csproj.CoreCompileInputs.cache
+c:\users\shruti\source\repos\PmDictionary\PmDictionary\obj\Debug\PmDictionary.exe
+c:\users\shruti\source\repos\PmDictionary\PmDictionary\obj\Debug\PmDictionary.pdb
